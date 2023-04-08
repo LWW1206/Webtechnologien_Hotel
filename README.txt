@@ -11,5 +11,6 @@ everyother user account passwort: 123
 
 Display of Home Page of Hotel:
 
-<img src="screenshots/hotel_main.png" alt="Hotel Main Screenshot">
+![hotel_main](https://user-images.githubusercontent.com/122217894/230714415-a649231e-d988-4946-9de4-5573359da654.png)
+
 
