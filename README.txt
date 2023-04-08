@@ -1,6 +1,6 @@
 Webtechnologien Semesterprojekt: Stephanie Rauscher, Li Wen Wang
 
-XAMPP used for the server & phpMyAdmin for Database
+install XAMPP for Server & DataBase
 Import Sql File into phpMyAdmin
 screenshots to display some of the functionalities of the project can be found in the screenshots folder
 
