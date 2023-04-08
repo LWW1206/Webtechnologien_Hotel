@@ -11,4 +11,5 @@ everyother user account passwort: 123
 
 Display of Home Page of Hotel:
 
-<img src = "screenshots/hotel_main.PNG" alt="hotel main1">
+<img src="screenshots/hotel_main.PNG" alt="Hotel Main Screenshot">
+
