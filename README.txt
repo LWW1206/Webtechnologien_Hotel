@@ -9,7 +9,3 @@ Login: adminLi
 Pw: 123
 
 everyother user account passwort: 123
-
-
-
-
